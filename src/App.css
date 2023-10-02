@@ -1,4 +1,39 @@
-.App {
+@import url(../src/utils/css/animate.css);
+@import url(../src/utils/css/classic-themes.min.css);
+@import url(../src/utils/css/font-awesome.min.css);
+@import url(../src/utils/css/js_composer.min.css);
+@import url(../src/utils/css/owl.carousel.css);
+@import url(../src/utils/css/owl.theme.css);
+@import url(../src/utils/css/rs6.css);
+@import url(../src/utils/css/style.css);
+@import url(../src/utils/css/style.min.css);
+@import url(../src/utils/css/styles.css);
+@import url(../src/utils/css/swiper.min.css);
+@import url(../src/utils/css/wc-blocks-style.css);
+@import url(../src/utils/css/wc-blocks-vendors-style.css);
+@import url(../src/utils/css/woocommerce-layout.css);
+@import url(../src/utils/css/woocommerce-smallscreen.css);
+@import url(../src/utils/css/woocommerce.css);
+@import url(../src/utils/css/woocommerce\(1\).css);
+@import url(../src/utils/css/app.css);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +70,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
